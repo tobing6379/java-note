@@ -1,0 +1,65 @@
+# maven ignore
+**/target/
+*.versionsBackup
+.factorypath
+.flattened-pom.xml
+
+# eclipse ignore
+.settings/
+.project
+.classpath
+*rebel.xml
+
+# STS
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# idea ignore
+*.ipr
+*.iml
+*.iws
+mvwn.*
+
+# temp ignore
+*.log
+*.cache
+*.diff
+*.patch
+*.tmp
+.idea/
+.idea
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# system ignore
+.DS_Store
+Thumbs.db
+
+.vscode
+
+# dev properties
+*/src/main/resources/bootstrap-default.yml
+*/src/main/resources/application-default.yml
+*/src/main/resources/application-uat.yml
+*/src/main/resources/application-sit.yml
+*/src/main/resources/application-prod.yml
+*/src/main/resources/application-remote.yml
+*/src/main/resources/application.properties.yml
+**/api/controller/v0/
+
+init-local-database-dev.sh
+
+# grovovy脚本文件
+*.groovy
+
