@@ -12,6 +12,10 @@
         <module>java-virtual-machine</module>
         <module>operating-system</module>
         <module>java-concurrency</module>
+        <module>java-base</module>
+        <module>java-desgin-pattern</module>
+        <module>datastruct-algorithm</module>
+        <module>computer-network</module>
     </modules>
 
     <properties>

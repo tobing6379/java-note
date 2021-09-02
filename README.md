@@ -6,7 +6,13 @@
 
 使用本地IDE时，推荐使用 [IDEA](https://www.jetbrains.com/idea/)，以支持注释的`{@link }`跳转特性。
 
-| 目录                 | 简介        |
-| -------------------- | ----------- |
-| java-virtual-machine | JVM相关笔记 |
+| 目录                                           | 简介                   |
+| ---------------------------------------------- | ---------------------- |
+| [computer-network](./computer-network)         | 计算机网络相关笔记     |
+| [datastruct-algorithm](./datastruct-algorithm) | 数据结构与算法相关笔记 |
+| [java-base](./java-base)                       | Java基础知识笔记       |
+| [java-concurrency](./java-concurrency)         | Java并发相关笔记       |
+| [java-desgin-pattern](./java-desgin-pattern)   | 设计模式相关笔记       |
+| [java-virtual-machine](./java-virtual-machine) | JVM相关笔记            |
+| [operating-system](./perating-system)          | 操作系统相关笔记       |
 
