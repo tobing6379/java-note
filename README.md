@@ -14,5 +14,5 @@
 | [java-concurrency](./java-concurrency)         | Java并发相关笔记       |
 | [java-desgin-pattern](./java-desgin-pattern)   | 设计模式相关笔记       |
 | [java-virtual-machine](./java-virtual-machine) | JVM相关笔记            |
-| [operating-system](./perating-system)          | 操作系统相关笔记       |
+| [operating-system](./operating-system)         | 操作系统相关笔记       |
 
