@@ -311,6 +311,15 @@ quick_sort_c(A, p, r) {
 + 在使用快速排序时，分界点的选定使用“三数取中法”
 + 对于递归太深导致堆栈溢出问题，qsort通过自己实现一个堆上栈，手动模拟递归来解决
 
+#### 排序算法的更多话题
+
++ [How does bubble sort compare to selection sort? - Stack Overflow](https://stackoverflow.com/questions/4561587/how-does-bubble-sort-compare-to-selection-sort)
++ [Selection Sort](https://www.personal.kent.edu/~rmuhamma/Algorithms/MyAlgorithms/Sorting/selectionSort.htm)
++ [Insertion sort vs Bubble Sort Algorithms - Stack Overflow](https://stackoverflow.com/questions/17270628/insertion-sort-vs-bubble-sort-algorithms)
++ [What is the Difference Between Bubble Sort and Insertion Sort - Pediaa.Com](https://www.google.com/amp/s/pediaa.com/what-is-the-difference-between-bubble-sort-and-insertion-sort/amp/)
++ [Stable QuickSort - GeeksforGeeks](https://www.google.com/amp/s/www.geeksforgeeks.org/stable-quicksort/amp/)
++ https://en.m.wikipedia.org/wiki/Boyer%E2%80%93Moore_string-search_algorithm
+
 ### 二分思想
 
 利用二分思想，每次都有序元素的中间数据进行比较，每比较一次，可以舍弃掉一半数据，效率非常高。
@@ -1758,7 +1767,9 @@ BFS思想简单直观、但是实现起来并不容易，需要使用到一些�
 排列问题
 
 + [17. 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number)
+  + 解法1：暴力回溯法
 + [93. 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses)
+  + 
 + [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning)
 + [46. 全排列](https://leetcode-cn.com/problems/permutations)
 + [47. 全排列 II](https://leetcode-cn.com/problems/permutations-ii)
