@@ -16,6 +16,7 @@
         <module>java-desgin-pattern</module>
         <module>datastruct-algorithm</module>
         <module>computer-network</module>
+        <module>spring</module>
     </modules>
 
     <properties>
