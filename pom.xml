@@ -17,6 +17,7 @@
         <module>datastruct-algorithm</module>
         <module>computer-network</module>
         <module>spring</module>
+        <module>linux</module>
     </modules>
 
     <properties>
