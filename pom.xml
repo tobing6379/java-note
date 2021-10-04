@@ -18,6 +18,9 @@
         <module>computer-network</module>
         <module>spring</module>
         <module>linux</module>
+        <module>java-collection</module>
+        <module>java-io</module>
+        <module>mybatis</module>
     </modules>
 
     <properties>
