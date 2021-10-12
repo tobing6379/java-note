@@ -4,6 +4,8 @@
 
 在使用[java](https://docs.oracle.com/en/java/javase/13/docs/specs/man/java.html)工具时，它会启动Java虚拟机来加载指定的类，并执行类的main方法来执行程序。
 
+![image-20211005001554669](https://gitee.com/tobing/imagebed/raw/master/image-20211005001554669.png)
+
 ## 类文件结构
 
 我们常说，Java时一门跨平台的编程语言。在使用Java来编写程序的时候，我们使用编译工具生成的是与平台无关的class字节码文件，它运行在Java虚拟机之上，不通过平台运行着不同的Java虚拟机的示例。正是借助字节码文件，可以实现「一次编译，随处运行」特点。
